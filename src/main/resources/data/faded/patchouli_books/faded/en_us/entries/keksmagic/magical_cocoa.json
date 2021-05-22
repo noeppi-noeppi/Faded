@@ -1,0 +1,66 @@
+{
+  "name": "Magical Cocoa",
+  "category": "faded:keksmagic",
+  "icon": "faded:keksmagic_cocoa_regeneration",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Magical Cocoa",
+      "text": "Magical cocoa can be crafted with cocoa beans and a potion. These are required to set the effects for your cookie."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_blindness",
+      "recipe2": "faded:keksmagic_cocoa_fire_resistance"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_haste",
+      "recipe2": "faded:keksmagic_cocoa_health_boost"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_hunger",
+      "recipe2": "faded:keksmagic_cocoa_instant_damage"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_instant_heal",
+      "recipe2": "faded:keksmagic_cocoa_invisibility"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_jump",
+      "recipe2": "faded:keksmagic_cocoa_mining_fatigue"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_nausea",
+      "recipe2": "faded:keksmagic_cocoa_night_vision"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_poison",
+      "recipe2": "faded:keksmagic_cocoa_regeneration"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_resistance",
+      "recipe2": "faded:keksmagic_cocoa_slowness"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_speed",
+      "recipe2": "faded:keksmagic_cocoa_strength"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_water_breathing",
+      "recipe2": "faded:keksmagic_cocoa_weakness"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cocoa_wither"
+    }
+  ]
+}

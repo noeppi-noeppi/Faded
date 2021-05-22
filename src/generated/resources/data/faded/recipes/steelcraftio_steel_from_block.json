@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:steelcraftio_steel_from_block",
+  "ingredients": [
+    {
+      "item": "faded:steelcraftio_steel_block"
+    }
+  ],
+  "result": {
+    "item": "faded:steelcraftio_steel",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cookie Assembler",
+  "category": "faded:keksmagic",
+  "icon": "faded:keksmagic_cookie_assembler",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Cookie Assembler",
+      "text": "The cookie assembler creates magical cookies. For this it needs fuel (the same fuels as in a furnace work), a dough, a cookie cutter and 5 cocoa beans. The dough and the cocoa beans are consumed, the cookie cutter not. If you want less than 5 effects, you can fill cocoa bean slots with regular cocoa beans instead of magical cocoas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_cookie_assembler",
+      "text": "The better your dough or the less effects, the stronger your cookie will be. To trigger the cookie, eat it."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "faded:steelcraftio_devil_ore"
+  },
+  "result": "faded:steelcraftio_devil_dust",
+  "experience": 1.0,
+  "cookingtime": 200
+}

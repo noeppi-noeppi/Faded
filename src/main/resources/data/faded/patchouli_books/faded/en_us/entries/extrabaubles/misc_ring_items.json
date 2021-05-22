@@ -1,0 +1,20 @@
+{
+  "name": "Ring Items",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_anti_poison_crystal",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Pearl",
+      "item": "faded:extrabaubles_pearl",
+      "link_recipe": true,
+      "text": "The pearl can be fished with a fishing rod. It can be put in a ring."
+    },
+    {
+      "type": "crafting",
+      "title": "Anti Poison Crystal",
+      "recipe": "faded:extrabaubles_anti_poison_crystal",
+      "text": "If put in a ring, this will prevent the poison and wither effects."
+    }
+  ]
+}

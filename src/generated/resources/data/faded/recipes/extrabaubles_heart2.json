@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:extrabaubles_heart2",
+  "pattern": [
+    "u u",
+    "dhd",
+    " d "
+  ],
+  "key": {
+    "h": {
+      "item": "faded:extrabaubles_heart1"
+    },
+    "u": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "d": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "faded:extrabaubles_heart2"
+  }
+}

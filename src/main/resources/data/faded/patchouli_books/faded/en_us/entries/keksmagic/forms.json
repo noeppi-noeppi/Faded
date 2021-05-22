@@ -1,0 +1,17 @@
+{
+  "name": "Cookie Cutters",
+  "category": "faded:keksmagic",
+  "icon": "faded:keksmagic_form_self",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Cookie Cutters",
+      "text": "The type of cookie cutter you use, sets the type of effect your cookie has. There are two types of cookie cutters: Self will apply the effects to yourself and Projectile will shoot a projectile."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_form_self",
+      "recipe2": "faded:keksmagic_form_projectile"
+    }
+  ]
+}

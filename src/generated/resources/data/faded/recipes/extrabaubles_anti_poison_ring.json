@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "faded:extrabaubles_ring"
+  },
+  "addition": {
+    "item": "faded:extrabaubles_anti_poison_crystal"
+  },
+  "result": {
+    "item": "faded:extrabaubles_anti_poison_ring"
+  }
+}

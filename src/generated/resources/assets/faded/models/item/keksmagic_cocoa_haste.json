@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "faded:item/keksmagic_cocoa_haste"
+  }
+}

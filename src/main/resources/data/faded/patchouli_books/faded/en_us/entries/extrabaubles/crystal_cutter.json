@@ -1,0 +1,23 @@
+{
+  "name": "Crystal Cutter",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_crystal_cutter",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Crystal Cutter",
+      "recipe": "faded:extrabaubles_crystal_cutter",
+      "text": "The crystal cutter can be used to cut crystals to put them in rings."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_cut_lapis",
+      "recipe2": "faded:extrabaubles_cut_diamond"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_cut_quartz",
+      "recipe2": "faded:extrabaubles_cut_obsidian"
+    }
+  ]
+}

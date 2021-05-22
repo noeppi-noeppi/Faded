@@ -1,0 +1,26 @@
+{
+  "name": "Mob Wands",
+  "category": "faded:random_wands",
+  "icon": "faded:random_wands_pig_wand",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Mob Wands",
+      "text": "Mob wands can be used to spawn unlimited mobs of one type."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:random_wands_pig_wand",
+      "recipe2": "faded:random_wands_cow_wand"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:random_wands_chicken_wand",
+      "recipe2": "faded:random_wands_squid_wand"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:random_wands_mooshroom_wand"
+    }
+  ]
+}

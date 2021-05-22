@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:steelcraftio_tiny_diamond_from_ingots",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "faded:steelcraftio_tiny_diamond"
+  }
+}

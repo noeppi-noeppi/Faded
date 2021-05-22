@@ -1,0 +1,27 @@
+{
+  "name": "Life Amulets",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_amulet_life1",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Life Amulets",
+      "text": "Life amulets increase the maximum health of the wearer. Each level gives an additional line of hearts."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_amulet_life1",
+      "recipe2": "faded:extrabaubles_amulet_life2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_amulet_life3",
+      "recipe2": "faded:extrabaubles_amulet_life4"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_amulet_life5",
+      "recipe2": "faded:extrabaubles_amulet_life6"
+    }
+  ]
+}

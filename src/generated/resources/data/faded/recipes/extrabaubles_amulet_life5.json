@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:extrabaubles_amulet_life5",
+  "pattern": [
+    "sss",
+    "s s",
+    " a "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:string"
+    },
+    "a": {
+      "item": "faded:extrabaubles_heart5"
+    }
+  },
+  "result": {
+    "item": "faded:extrabaubles_amulet_life5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:keksmagic_form_projectile",
+  "pattern": [
+    "ii ",
+    "i i",
+    " ii"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "faded:keksmagic_form_projectile"
+  }
+}

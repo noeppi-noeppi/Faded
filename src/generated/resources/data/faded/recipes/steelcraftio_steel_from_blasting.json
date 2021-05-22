@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "faded:steelcraftio_raw_steel"
+  },
+  "result": "faded:steelcraftio_steel",
+  "experience": 0.1,
+  "cookingtime": 100
+}

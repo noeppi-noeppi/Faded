@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "faded:extrabaubles_ring"
+  },
+  "addition": {
+    "item": "faded:extrabaubles_cut_obsidian"
+  },
+  "result": {
+    "item": "faded:extrabaubles_obsidian_ring"
+  }
+}

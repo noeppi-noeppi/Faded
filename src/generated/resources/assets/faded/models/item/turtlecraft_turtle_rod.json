@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "faded:item/turtlecraft_turtle_rod"
+  }
+}

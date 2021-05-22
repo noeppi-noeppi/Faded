@@ -1,0 +1,17 @@
+{
+  "name": "Totem of Teleportation",
+  "category": "faded:useful_totems",
+  "icon": "faded:useful_totems_teleport_totem",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Totem of Teleportation",
+      "text": "Sometimes you want to get away from tricky situations fast. This totem solves this by teleporting you to your spawn point when you'd normally die."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:useful_totems_teleport_totem",
+      "text": "Crafting a Totem of Teleportation"
+    }
+  ]
+}

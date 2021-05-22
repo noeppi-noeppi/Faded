@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:keksmagic_cocoa_weakness",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "type": "libx:effect",
+      "item": "minecraft:potion",
+      "effects": [
+        {
+          "potion": "minecraft:weakness",
+          "amplifier": 0,
+          "duration": 20
+        }
+      ],
+      "extraEffects": false,
+      "higherAmplifier": true,
+      "higherDuration": true
+    }
+  ],
+  "result": {
+    "item": "faded:keksmagic_cocoa_weakness",
+    "count": 4
+  }
+}

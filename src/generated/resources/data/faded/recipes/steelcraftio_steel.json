@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "faded:steelcraftio_raw_steel"
+  },
+  "result": "faded:steelcraftio_steel",
+  "experience": 0.2,
+  "cookingtime": 200
+}

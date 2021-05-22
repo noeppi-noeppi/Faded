@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:extrabaubles_crystal_cutter",
+  "pattern": [
+    "id",
+    "id",
+    "s "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:rods/wooden"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "faded:extrabaubles_crystal_cutter"
+  }
+}

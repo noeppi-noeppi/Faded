@@ -1,0 +1,1204 @@
+{
+  "variants": {
+    "bomb=false,fuse=1,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=1,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=2,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=2,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=3,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=3,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=4,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=4,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=5,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=5,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=6,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=6,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=7,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=7,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=8,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=8,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=9,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=9,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=10,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt"
+    },
+    "bomb=true,fuse=10,power=1,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb"
+    },
+    "bomb=false,fuse=1,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=1,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=2,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=2,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=3,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=3,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=4,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=4,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=5,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=5,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=6,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=6,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=7,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=7,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=8,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=8,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=9,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=9,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=10,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_2"
+    },
+    "bomb=true,fuse=10,power=2,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_2"
+    },
+    "bomb=false,fuse=1,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=1,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=2,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=2,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=3,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=3,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=4,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=4,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=5,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=5,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=6,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=6,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=7,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=7,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=8,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=8,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=9,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=9,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=10,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_3"
+    },
+    "bomb=true,fuse=10,power=3,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_3"
+    },
+    "bomb=false,fuse=1,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=1,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=2,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=2,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=3,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=3,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=4,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=4,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=5,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=5,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=6,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=6,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=7,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=7,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=8,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=8,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=9,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=9,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=10,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_4"
+    },
+    "bomb=true,fuse=10,power=4,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_4"
+    },
+    "bomb=false,fuse=1,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=1,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=2,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=2,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=3,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=3,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=4,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=4,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=5,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=5,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=6,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=6,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=7,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=7,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=8,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=8,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=9,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=9,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=10,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_5"
+    },
+    "bomb=true,fuse=10,power=5,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_5"
+    },
+    "bomb=false,fuse=1,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=1,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=2,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=2,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=3,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=3,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=4,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=4,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=5,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=5,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=6,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=6,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=7,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=7,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=8,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=8,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=9,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=9,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=10,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_6"
+    },
+    "bomb=true,fuse=10,power=6,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_6"
+    },
+    "bomb=false,fuse=1,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=1,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=2,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=2,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=3,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=3,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=4,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=4,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=5,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=5,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=6,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=6,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=7,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=7,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=8,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=8,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=9,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=9,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=10,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_7"
+    },
+    "bomb=true,fuse=10,power=7,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_7"
+    },
+    "bomb=false,fuse=1,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=1,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=2,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=2,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=3,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=3,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=4,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=4,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=5,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=5,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=6,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=6,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=7,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=7,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=8,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=8,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=9,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=9,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=10,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_8"
+    },
+    "bomb=true,fuse=10,power=8,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_8"
+    },
+    "bomb=false,fuse=1,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=1,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=2,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=2,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=3,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=3,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=4,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=4,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=5,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=5,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=6,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=6,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=7,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=7,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=8,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=8,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=9,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=9,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=10,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_9"
+    },
+    "bomb=true,fuse=10,power=9,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_9"
+    },
+    "bomb=false,fuse=1,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=1,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=2,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=2,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=3,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=3,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=4,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=4,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=5,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=5,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=6,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=6,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=7,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=7,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=8,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=8,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=9,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=9,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=10,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_10"
+    },
+    "bomb=true,fuse=10,power=10,unstable=false": {
+      "model": "faded:block/moretnt_better_tnt_bomb_10"
+    },
+    "bomb=false,fuse=1,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=1,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=2,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=2,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=3,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=3,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=4,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=4,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=5,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=5,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=6,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=6,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=7,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=7,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=8,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=8,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=9,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=9,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=10,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable"
+    },
+    "bomb=true,fuse=10,power=1,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb"
+    },
+    "bomb=false,fuse=1,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=1,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=2,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=2,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=3,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=3,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=4,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=4,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=5,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=5,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=6,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=6,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=7,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=7,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=8,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=8,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=9,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=9,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=10,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_2"
+    },
+    "bomb=true,fuse=10,power=2,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_2"
+    },
+    "bomb=false,fuse=1,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=1,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=2,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=2,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=3,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=3,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=4,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=4,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=5,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=5,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=6,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=6,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=7,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=7,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=8,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=8,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=9,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=9,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=10,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_3"
+    },
+    "bomb=true,fuse=10,power=3,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_3"
+    },
+    "bomb=false,fuse=1,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=1,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=2,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=2,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=3,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=3,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=4,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=4,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=5,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=5,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=6,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=6,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=7,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=7,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=8,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=8,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=9,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=9,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=10,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_4"
+    },
+    "bomb=true,fuse=10,power=4,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_4"
+    },
+    "bomb=false,fuse=1,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=1,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=2,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=2,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=3,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=3,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=4,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=4,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=5,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=5,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=6,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=6,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=7,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=7,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=8,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=8,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=9,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=9,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=10,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_5"
+    },
+    "bomb=true,fuse=10,power=5,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_5"
+    },
+    "bomb=false,fuse=1,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=1,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=2,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=2,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=3,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=3,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=4,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=4,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=5,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=5,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=6,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=6,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=7,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=7,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=8,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=8,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=9,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=9,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=10,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_6"
+    },
+    "bomb=true,fuse=10,power=6,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_6"
+    },
+    "bomb=false,fuse=1,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=1,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=2,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=2,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=3,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=3,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=4,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=4,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=5,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=5,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=6,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=6,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=7,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=7,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=8,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=8,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=9,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=9,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=10,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_7"
+    },
+    "bomb=true,fuse=10,power=7,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_7"
+    },
+    "bomb=false,fuse=1,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=1,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=2,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=2,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=3,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=3,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=4,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=4,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=5,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=5,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=6,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=6,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=7,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=7,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=8,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=8,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=9,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=9,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=10,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_8"
+    },
+    "bomb=true,fuse=10,power=8,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_8"
+    },
+    "bomb=false,fuse=1,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=1,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=2,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=2,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=3,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=3,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=4,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=4,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=5,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=5,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=6,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=6,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=7,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=7,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=8,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=8,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=9,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=9,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=10,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_9"
+    },
+    "bomb=true,fuse=10,power=9,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_9"
+    },
+    "bomb=false,fuse=1,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=1,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=2,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=2,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=3,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=3,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=4,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=4,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=5,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=5,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=6,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=6,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=7,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=7,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=8,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=8,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=9,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=9,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    },
+    "bomb=false,fuse=10,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_10"
+    },
+    "bomb=true,fuse=10,power=10,unstable=true": {
+      "model": "faded:block/moretnt_better_tnt_unstable_bomb_10"
+    }
+  }
+}

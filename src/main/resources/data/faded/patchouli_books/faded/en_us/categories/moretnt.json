@@ -1,0 +1,6 @@
+{
+  "name": "MoreTNT",
+  "description": "Because it's always funny to mess with TNT in minecraft I wanted to create some more TNT! Each tnt can be made unstable by right clicking with a flint after placing it. Then it'll explode when broken.",
+  "icon": "faded:moretnt_weak_tnt",
+  "sortnum": 4
+}

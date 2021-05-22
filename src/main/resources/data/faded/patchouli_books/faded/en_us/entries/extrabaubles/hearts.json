@@ -1,0 +1,27 @@
+{
+  "name": "Hearts",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_heart5",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Hearts",
+      "text": "Hearts are crafting components for life amulets."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_heart1",
+      "recipe2": "faded:extrabaubles_heart2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_heart3",
+      "recipe2": "faded:extrabaubles_heart4"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_heart5",
+      "recipe2": "faded:extrabaubles_heart6"
+    }
+  ]
+}

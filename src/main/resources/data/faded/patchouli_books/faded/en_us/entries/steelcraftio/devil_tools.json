@@ -1,0 +1,36 @@
+{
+  "name": "Devil Tools",
+  "category": "faded:steelcraftio",
+  "icon": "faded:steelcraftio_devil_pickaxe",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Devil Tools",
+      "text": "Devil tools are better than Netherite."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil_sword",
+      "recipe2": "faded:steelcraftio_devil_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil_pick",
+      "recipe2": "faded:steelcraftio_devil_shovel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil_hoe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil_helmet",
+      "recipe2": "faded:steelcraftio_devil_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil_leggings",
+      "recipe2": "faded:steelcraftio_devil_boots"
+    }
+  ]
+}

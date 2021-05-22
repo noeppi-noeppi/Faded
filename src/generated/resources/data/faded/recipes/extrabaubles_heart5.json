@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:extrabaubles_heart5",
+  "pattern": [
+    "u u",
+    "dhd",
+    " d "
+  ],
+  "key": {
+    "h": {
+      "item": "faded:extrabaubles_heart4"
+    },
+    "u": {
+      "item": "minecraft:nether_star"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "faded:extrabaubles_heart5"
+  }
+}

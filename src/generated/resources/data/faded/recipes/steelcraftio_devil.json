@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:steelcraftio_devil",
+  "ingredients": [
+    {
+      "item": "faded:steelcraftio_steel"
+    },
+    {
+      "item": "faded:steelcraftio_devil_dust"
+    }
+  ],
+  "result": {
+    "item": "faded:steelcraftio_devil"
+  }
+}

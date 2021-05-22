@@ -1,0 +1,19 @@
+{
+  "name": "Devilish Ingot",
+  "category": "faded:steelcraftio",
+  "icon": "faded:steelcraftio_devil",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Devilish Ore",
+      "item": "faded:steelcraftio_devil_ore",
+      "link_recipe": true,
+      "text": "Below Y=11 you'll find devilish ore. This can be mined to get devilish dust. The devilish dust can be crafted with steel to get ingots and blocks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_devil",
+      "recipe2": "faded:steelcraftio_devil_block_from_ingots"
+    }
+  ]
+}

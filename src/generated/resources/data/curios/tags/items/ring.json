@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "faded:extrabaubles_ring",
+    "faded:extrabaubles_pearl_ring",
+    "faded:extrabaubles_anti_poison_ring",
+    "faded:extrabaubles_lapis_ring",
+    "faded:extrabaubles_quartz_ring",
+    "faded:extrabaubles_diamond_ring",
+    "faded:extrabaubles_obsidian_ring"
+  ]
+}

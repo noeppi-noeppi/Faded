@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:keksmagic_cookie_assembler",
+  "pattern": [
+    "ici",
+    "ili",
+    "iii"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cookie"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "l": {
+      "tag": "forge:gems/lapis"
+    }
+  },
+  "result": {
+    "item": "faded:keksmagic_cookie_assembler"
+  }
+}

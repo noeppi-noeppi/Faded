@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:steelcraftio_bedrock_nugget_from_block",
+  "ingredients": [
+    {
+      "item": "faded:steelcraftio_bedrock_ingot"
+    }
+  ],
+  "result": {
+    "item": "faded:steelcraftio_bedrock_nugget",
+    "count": 9
+  }
+}

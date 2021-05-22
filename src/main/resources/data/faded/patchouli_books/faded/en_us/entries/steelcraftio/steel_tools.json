@@ -1,0 +1,36 @@
+{
+  "name": "Steel Tools",
+  "category": "faded:steelcraftio",
+  "icon": "faded:steelcraftio_steel_pickaxe",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Steel Tools",
+      "text": "Steel tools are better than Iron but worse than Diamond."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_steel_sword",
+      "recipe2": "faded:steelcraftio_steel_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_steel_pick",
+      "recipe2": "faded:steelcraftio_steel_shovel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_steel_hoe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_steel_helmet",
+      "recipe2": "faded:steelcraftio_steel_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_steel_leggings",
+      "recipe2": "faded:steelcraftio_steel_boots"
+    }
+  ]
+}

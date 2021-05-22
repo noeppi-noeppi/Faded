@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "faded:item/steelcraftio_steel_sword"
+  }
+}

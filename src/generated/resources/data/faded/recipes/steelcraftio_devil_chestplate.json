@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:steelcraftio_devil_chestplate",
+  "pattern": [
+    "m m",
+    "mmm",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "faded:steelcraftio_devil"
+    }
+  },
+  "result": {
+    "item": "faded:steelcraftio_devil_chestplate"
+  }
+}

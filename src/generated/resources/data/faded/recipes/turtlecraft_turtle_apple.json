@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:turtlecraft_turtle_apple",
+  "pattern": [
+    "sss",
+    "sas",
+    "sss"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "s": {
+      "item": "faded:turtlecraft_turtle_shell"
+    }
+  },
+  "result": {
+    "item": "faded:turtlecraft_turtle_apple"
+  }
+}

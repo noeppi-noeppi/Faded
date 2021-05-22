@@ -1,0 +1,17 @@
+{
+  "name": "Totem of Salvage",
+  "category": "faded:useful_totems",
+  "icon": "faded:useful_totems_salvage_totem",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Totem of Salvage",
+      "text": "A regular totem of undying is really useful but in some cases it could be more useful. The totem of salvage will give different effects depending on the cause of you death. For example you'll get a strength effect when you die in compat or you'll get a levitation effect when falling into the void. Another example is suffocating in a block."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:useful_totems_salvage_totem",
+      "text": "Here the block suffocating you will be broken and stone is placed above your head to protect you from more gravity blocks."
+    }
+  ]
+}

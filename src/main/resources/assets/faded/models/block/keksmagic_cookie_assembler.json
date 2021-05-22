@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "faded:block/keksmagic_cookie_assembler_side",
+    "bottom": "faded:block/keksmagic_cookie_assembler_side",
+    "top": "faded:block/keksmagic_cookie_assembler_top",
+    "particle": "faded:block/keksmagic_cookie_assembler_top"
+  }
+}

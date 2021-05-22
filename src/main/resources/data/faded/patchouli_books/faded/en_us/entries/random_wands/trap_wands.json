@@ -1,0 +1,17 @@
+{
+  "name": "Trap Wands",
+  "category": "faded:random_wands",
+  "icon": "faded:random_wands_ice_wand",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Trap Wands",
+      "text": "Trap wands can be used to place unlimited blocks of one type or can be used to trap a mob in a cage of said block (by right click)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:random_wands_ice_wand",
+      "recipe2": "faded:random_wands_obsidian_wand"
+    }
+  ]
+}

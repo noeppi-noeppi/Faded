@@ -1,0 +1,19 @@
+{
+  "name": "Simple TNTs",
+  "category": "faded:moretnt",
+  "icon": "faded:moretnt_weak_tnt",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Weak TNT",
+      "recipe": "faded:moretnt_weak_tnt",
+      "text": "Weak TNT creates only a very small explosion."
+    },
+    {
+      "type": "crafting",
+      "title": "Ground TNT",
+      "recipe": "faded:moretnt_ground_tnt",
+      "text": "Ground TNT only explodes stone, dirt and such things, but leaves ores and other blocks untouched."
+    }
+  ]
+}

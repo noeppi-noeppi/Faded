@@ -1,0 +1,21 @@
+{
+  "name": "Steel",
+  "category": "faded:steelcraftio",
+  "icon": "faded:steelcraftio_steel",
+  "pages": [
+    {
+      "type": "smelting",
+      "title": "Creating steel",
+      "recipe": "faded:steelcraftio_steel",
+      "recipe2": "faded:steelcraftio_steel_from_blasting",
+      "text": "To create steel you'll need to smelt Raw Steel"
+    },
+    {
+      "type": "crafting",
+      "title": "Creating steel",
+      "recipe": "faded:steelcraftio_raw_steel",
+      "recipe2": "faded:steelcraftio_steel_block_from_ingots",
+      "text": "Creating Raw Steel and Steel Blocks."
+    }
+  ]
+}

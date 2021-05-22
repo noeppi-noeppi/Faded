@@ -1,0 +1,22 @@
+{
+  "name": "Cookie Dough",
+  "category": "faded:keksmagic",
+  "icon": "faded:keksmagic_dough1",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Cookie Dough",
+      "text": "There are four tiers of dough. The better your dough, the better your cookie. (It will have longer and stronger effects)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_dough1",
+      "recipe2": "faded:keksmagic_dough2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:keksmagic_dough3",
+      "recipe2": "faded:keksmagic_dough4"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:moretnt_weak_tnt",
+  "pattern": [
+    "sss",
+    "sgs",
+    "sss"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:gunpowder"
+    },
+    "s": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "faded:moretnt_weak_tnt",
+    "count": 4
+  }
+}

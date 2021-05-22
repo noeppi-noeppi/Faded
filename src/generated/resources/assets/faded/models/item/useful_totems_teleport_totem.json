@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "faded:item/useful_totems_teleport_totem"
+  }
+}

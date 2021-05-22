@@ -1,0 +1,18 @@
+{
+  "name": "Better TNT",
+  "category": "faded:moretnt",
+  "icon": "faded:moretnt_better_tnt",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Better TNT",
+      "recipe": "faded:moretnt_better_tnt",
+      "text": "Better TNT can be placed and the customised by right clicking with specific items."
+    },
+    {
+      "type": "text",
+      "title": "Customising TNT",
+      "text": "With gunpowder, you can increase the explosion power. String increases the fuse time. Flint makes it unstable like every other tnt from MoreTNT. Redstone can be used to turn it into a bomb. It'll then instantly explode when pushed into a block."
+    }
+  ]
+}

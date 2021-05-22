@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:random_wands_mooshroom_wand",
+  "pattern": [
+    "  x",
+    " s ",
+    "s  "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:red_mushroom_block"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "faded:random_wands_mooshroom_wand"
+  }
+}

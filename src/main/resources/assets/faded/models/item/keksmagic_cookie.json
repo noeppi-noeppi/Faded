@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "faded:item/keksmagic_cookie",
+        "layer1": "faded:item/keksmagic_cookie1",
+        "layer2": "faded:item/keksmagic_cookie2",
+        "layer3": "faded:item/keksmagic_cookie3",
+        "layer4": "faded:item/keksmagic_cookie4"
+    }
+}

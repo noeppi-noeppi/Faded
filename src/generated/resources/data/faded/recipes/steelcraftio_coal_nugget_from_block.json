@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:steelcraftio_coal_nugget_from_block",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "faded:steelcraftio_coal_nugget",
+    "count": 9
+  }
+}

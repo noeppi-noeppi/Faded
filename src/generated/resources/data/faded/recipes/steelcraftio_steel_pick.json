@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:steelcraftio_steel_pick",
+  "pattern": [
+    "mmm",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "m": {
+      "item": "faded:steelcraftio_steel"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "faded:steelcraftio_steel_pickaxe"
+  }
+}

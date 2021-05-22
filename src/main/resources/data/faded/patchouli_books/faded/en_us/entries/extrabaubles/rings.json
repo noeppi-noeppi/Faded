@@ -1,0 +1,55 @@
+{
+  "name": "Rings",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_diamond_ring",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Ring",
+      "recipe": "faded:extrabaubles_ring",
+      "text": "The ring can be combined with other items in a smithing table (this was an anvil in the original mod) to get rings that really have effects."
+    },
+    {
+      "type": "spotlight",
+      "title": "Pearl Ring",
+      "item": "faded:extrabaubles_pearl_ring",
+      "link_recipe": true,
+      "text": "This ring gives water breathing."
+    },
+    {
+      "type": "spotlight",
+      "title": "Anti Poison Ring",
+      "item": "faded:extrabaubles_anti_poison_ring",
+      "link_recipe": true,
+      "text": "This ring removes poison and wither effects."
+    },
+    {
+      "type": "spotlight",
+      "title": "Lapis Lazuli Ring",
+      "item": "faded:extrabaubles_lapis_ring",
+      "link_recipe": true,
+      "text": "This ring gives night vision."
+    },
+    {
+      "type": "spotlight",
+      "title": "Quartz Ring",
+      "item": "faded:extrabaubles_quartz_ring",
+      "link_recipe": true,
+      "text": "This ring negates all fall damage."
+    },
+    {
+      "type": "spotlight",
+      "title": "Diamond Ring",
+      "item": "faded:extrabaubles_diamond_ring",
+      "link_recipe": true,
+      "text": "This ring gives strength."
+    },
+    {
+      "type": "spotlight",
+      "title": "Obsidian Ring",
+      "item": "faded:extrabaubles_obsidian_ring",
+      "link_recipe": true,
+      "text": "This ring gives resistance and slowness."
+    }
+  ]
+}

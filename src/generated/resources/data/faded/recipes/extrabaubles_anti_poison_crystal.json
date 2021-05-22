@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:extrabaubles_anti_poison_crystal",
+  "pattern": [
+    "fmf",
+    "mim",
+    "fmf"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "m": {
+      "item": "minecraft:magma_cream"
+    },
+    "i": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "faded:extrabaubles_anti_poison_crystal"
+  }
+}

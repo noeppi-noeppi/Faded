@@ -1,0 +1,19 @@
+{
+  "name": "Bedrock Ingot",
+  "category": "faded:steelcraftio",
+  "icon": "faded:steelcraftio_bedrock_ingot",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Dense Ore",
+      "item": "faded:steelcraftio_dense_ore",
+      "link_recipe": true,
+      "text": "Dense ore is found embedded in the bedrock. Mining it will drop 27 stacks of cobblestone. if mining with fortune, you'll also get bedrock nuggets. These can be crafted into ingots. The ingots are useless. However the idea was later picked up by my second published mod BedrockCraft."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:steelcraftio_bedrock_nugget_from_block",
+      "recipe2": "faded:steelcraftio_bedrock_ingot_from_ingots"
+    }
+  ]
+}

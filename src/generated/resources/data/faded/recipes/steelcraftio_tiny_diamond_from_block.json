@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faded:steelcraftio_tiny_diamond_from_block",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "faded:steelcraftio_tiny_diamond",
+    "count": 9
+  }
+}

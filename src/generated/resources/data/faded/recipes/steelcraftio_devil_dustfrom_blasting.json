@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "faded:steelcraftio_devil_ore"
+  },
+  "result": "faded:steelcraftio_devil_dust",
+  "experience": 0.5,
+  "cookingtime": 100
+}

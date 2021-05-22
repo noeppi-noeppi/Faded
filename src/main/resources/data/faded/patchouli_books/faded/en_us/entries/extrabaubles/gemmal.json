@@ -1,0 +1,12 @@
+{
+  "name": "The Belt Gémmal",
+  "category": "faded:extrabaubles",
+  "icon": "faded:extrabaubles_belt_gemmal",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "faded:extrabaubles_belt_gemmal",
+      "text": "The Belt Gémmal makes invisible. Its a reference to the novel \"Die Unendliche Geschichte\" which means the never-ending story."
+    }
+  ]
+}

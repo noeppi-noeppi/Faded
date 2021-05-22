@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faded:moretnt_weak_tnt",
+  "pattern": [
+    "gsg",
+    "sgs",
+    "gsg"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:gunpowder"
+    },
+    "s": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "faded:moretnt_ground_tnt"
+  }
+}

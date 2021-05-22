@@ -1,0 +1,6 @@
+{
+  "name": "KeksMagic",
+  "description": "KeksMagic adds magical cookies. (Keks is the german word for cookie). Upon eating, they'll either trigger potion effects for you or shoot a potion arrow. The concept of cookies with effects was later picked up by my mod NextChristmas.",
+  "icon": "minecraft:cookie",
+  "sortnum": 7
+}

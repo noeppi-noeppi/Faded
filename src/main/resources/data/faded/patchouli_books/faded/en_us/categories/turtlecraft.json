@@ -1,0 +1,6 @@
+{
+  "name": "TurtleCraft",
+  "description": "Before turtles were added to minecraft, I tried to add my own mob. However it did not work. So I first really saw my turtle during creating Faded. Because minecraft already has turtles, I renamed it to weird turtle while creating faded..",
+  "icon": "faded:turtlecraft_turtle_spawn_egg",
+  "sortnum": 6
+}

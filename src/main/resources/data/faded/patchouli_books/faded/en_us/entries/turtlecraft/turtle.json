@@ -1,0 +1,25 @@
+{
+  "name": "Turtle",
+  "category": "faded:turtlecraft",
+  "icon": "faded:turtlecraft_turtle_spawn_egg",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Turtle shells",
+      "item": "faded:turtlecraft_turtle_shell",
+      "link_recipe": true,
+      "text": "Turtles drop turtle shells. They can be used to craft turtle apples, which give the resistance potion effect. They can also be used to craft the turtle rod. The turtle rod inflicts slowness when hitting other people."
+    },
+    {
+      "type": "entity",
+      "title": "Turtle",
+      "entity": "faded:turtlecraft_turtle",
+      "text": "Turtles spawn in beaches, rivers and ocean islands."
+    },
+    {
+      "type": "crafting",
+      "recipe": "faded:turtlecraft_turtle_apple",
+      "recipe2": "faded:turtlecraft_turtle_rod"
+    }
+  ]
+}

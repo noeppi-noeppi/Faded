@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "faded.refmap.json",
+  "package": "io.github.noeppi_noeppi.mods.faded.mixin",
+  "minVersion": "0.8",
+  "client": [
+    "MixinClientPlayNetHandler"
+  ],
+  "server": [],
+  "mixins": [
+    "MixinLivingEntity"
+  ]
+}

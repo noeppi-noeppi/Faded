@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="The Apache License, Version 2.0"
+issueTrackerURL="https://github.com/noeppi-noeppi/Faded/issues"
+
+[[mods]]
+modId="faded"
+version="${file.jarVersion}"
+displayName="Faded"
+displayURL=""
+authors="noeppi_noeppi"
+description="""
+My first mod ideas that never made it into a mod ported to recent versions.
+"""
+
+[[dependencies.faded]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.faded]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,)"
+    ordering="NONE"
+    side="BOTH"

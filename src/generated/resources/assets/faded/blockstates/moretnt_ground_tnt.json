@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "bomb=false,unstable=false": {
+      "model": "faded:block/moretnt_ground_tnt"
+    },
+    "bomb=true,unstable=false": {
+      "model": "faded:block/moretnt_ground_tnt_bomb"
+    },
+    "bomb=false,unstable=true": {
+      "model": "faded:block/moretnt_ground_tnt_unstable"
+    },
+    "bomb=true,unstable=true": {
+      "model": "faded:block/moretnt_ground_tnt_unstable_bomb"
+    }
+  }
+}
