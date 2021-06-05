@@ -9,7 +9,6 @@ import io.github.noeppi_noeppi.mods.faded.Faded;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.gui.ScreenManager;
-import net.minecraft.client.renderer.color.ItemColors;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -18,6 +17,7 @@ import net.minecraft.potion.Effects;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.client.event.ColorHandlerEvent;
+import net.minecraftforge.fml.DistExecutor;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @RegisterClass(prefix = "keksmagic")
@@ -65,13 +65,16 @@ public class KeksMagic {
     public static final ItemBase cocoaWither = new ItemMagicalCocoa(Faded.getInstance(), Effects.WITHER, new Item.Properties().group(TAB));
 
     public static void init() {
-        FMLJavaModLoadingContext.get().getModEventBus().addListener(KeksMagic::itemColors);
+        DistExecutor.unsafeRunWhenOn(Dist.CLIENT, () -> () -> {
+            FMLJavaModLoadingContext.get().getModEventBus().addListener(KeksMagic::itemColors);
+        });
     }
 
     public static void setup() {
         
     }
     
+    @OnlyIn(Dist.CLIENT)
     public static void itemColors(ColorHandlerEvent.Item event) {
         event.getItemColors().register(cookie, cookie);
     }
