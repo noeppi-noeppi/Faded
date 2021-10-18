@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[35,)"
+loaderVersion="[36,)"
 license="The Apache License, Version 2.0"
 issueTrackerURL="https://github.com/noeppi-noeppi/Faded/issues"
 
@@ -7,7 +7,8 @@ issueTrackerURL="https://github.com/noeppi-noeppi/Faded/issues"
 modId="faded"
 version="${file.jarVersion}"
 displayName="Faded"
-displayURL=""
+displayURL="https://www.curseforge.com/minecraft/mc-mods/faded"
+updateJSONURL="https://assets.melanx.de/updates/faded.json"
 authors="noeppi_noeppi"
 description="""
 My first mod ideas that never made it into a mod ported to recent versions.
@@ -16,13 +17,13 @@ My first mod ideas that never made it into a mod ported to recent versions.
 [[dependencies.faded]]
     modId="forge"
     mandatory=true
-    versionRange="[35.1,)"
+    versionRange="[36.1.0,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.faded]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.4,)"
+    versionRange="[1.16.5,)"
     ordering="NONE"
     side="BOTH"
